@@ -1,0 +1,6 @@
+When <w> is pressed,move north 
+When <s> is pressed, move south 
+When <d> is pressed, move east
+When <a> is pressed, move west 
+When <Spacebar> is pressed, move up for 0.5 seconds 
+When <escape> is pull up menue 
